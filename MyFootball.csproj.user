@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TeamView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\PlayerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\CalendarSection.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="View\FormObjects.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="View\MainSeasonSection.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="View\MatchEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\MatchesDGV.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="View\PlayersDGV.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="View\TeamForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Table.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="View\TeamsSection.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
