@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyFootball.Match">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAABAAAAAAABAAICAAAAAAAgAAAQABAAQAAAAABA=</HashCode>
+      <FileName>Models\footballEntities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyFootball.Team">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAAAAAAAgCAIAACASARAAgAwAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Models\footballEntities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyFootball.Coach">
+    <Position X="1.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\footballEntities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyFootball.Stadium">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAIAAAAAAQCAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\footballEntities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyFootball.Player">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAgAEAAAAQCBAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Models\footballEntities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyFootball.Season">
+    <Position X="1.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBAAAAAAAABAAAAAAAABAAAEBAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Models\footballEntities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MyFootball.Position">
+    <Position X="1.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAIAAABAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Models\footballEntities.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
